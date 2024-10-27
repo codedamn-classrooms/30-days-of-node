@@ -1,0 +1,3 @@
+tabs: ["index.js"]
+run-button: node $$file
+terminals: ["bun i && npm run start"]
